@@ -1,0 +1,62 @@
+<annotation>
+	<folder>telo kuning</folder>
+	<filename>IMG_20211002_091113.jpg</filename>
+	<path>C:\ARKA\KULIAH\SMST 7\Objek deteksi\telo kuning\IMG_20211002_091113.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2592</width>
+		<height>1944</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ubi kuning</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1365</xmin>
+			<ymin>348</ymin>
+			<xmax>2043</xmax>
+			<ymax>987</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>ubi kuning</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>465</xmin>
+			<ymin>807</ymin>
+			<xmax>1120</xmax>
+			<ymax>1848</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>ubi kuning</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1120</xmin>
+			<ymin>615</ymin>
+			<xmax>1592</xmax>
+			<ymax>1734</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>ubi kuning</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1645</xmin>
+			<ymin>997</ymin>
+			<xmax>2273</xmax>
+			<ymax>1938</ymax>
+		</bndbox>
+	</object>
+</annotation>

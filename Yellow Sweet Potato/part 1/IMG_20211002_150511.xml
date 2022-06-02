@@ -1,0 +1,74 @@
+<annotation>
+	<folder>TEMP</folder>
+	<filename>IMG_20211002_150511.jpg</filename>
+	<path>C:\Users\ACER\Videos\TEMP\IMG_20211002_150511.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2592</width>
+		<height>1944</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ubi kuning</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>792</xmin>
+			<ymin>660</ymin>
+			<xmax>1235</xmax>
+			<ymax>1107</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>ubi kuning</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1185</xmin>
+			<ymin>632</ymin>
+			<xmax>1673</xmax>
+			<ymax>1168</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>ubi kuning</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1659</xmin>
+			<ymin>417</ymin>
+			<xmax>2232</xmax>
+			<ymax>895</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>ubi kuning</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>788</xmin>
+			<ymin>1048</ymin>
+			<xmax>1700</xmax>
+			<ymax>1838</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>ubi kuning</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1600</xmin>
+			<ymin>828</ymin>
+			<xmax>2488</xmax>
+			<ymax>1864</ymax>
+		</bndbox>
+	</object>
+</annotation>
