@@ -1,0 +1,50 @@
+<annotation>
+	<folder>cilembu</folder>
+	<filename>IMG_20211004_104917.jpg</filename>
+	<path>C:\ARKA\KULIAH\SMST 7\Objek deteksi\cilembu\IMG_20211004_104917.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2592</width>
+		<height>1944</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ubi cilembu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>765</xmin>
+			<ymin>471</ymin>
+			<xmax>1510</xmax>
+			<ymax>1111</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>ubi cilembu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1247</xmin>
+			<ymin>550</ymin>
+			<xmax>1859</xmax>
+			<ymax>1228</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>ubi cilembu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>998</xmin>
+			<ymin>222</ymin>
+			<xmax>2147</xmax>
+			<ymax>1013</ymax>
+		</bndbox>
+	</object>
+</annotation>
